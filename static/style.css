@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+.square{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 100px;
+}
+
+h2{
+    color: pink;
+    
+}
+h3{
+    color:papayawhip;
+    text-align: center;
+    font-size: 30px;
+
+}
+h4{
+    color: papayawhip;
+    text-align:center;
+}
+form{
+    text-align: center;
+    
+}
+input{
+    background-color: palegoldenrod;
+    color: pink;
+
+}
+textarea{
+    height: 200px;
+    width: 805px;
+    text-align: left;
+    color: pink;
+}
+#nameofthegame{
+    color: palegoldenrod;
+}
